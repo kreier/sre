@@ -6,6 +6,12 @@ This is just a fork of the work by [ToastyX](https://www.monitortests.com/forum/
 
 [![Patreon support](docs/patreon.png)](https://www.patreon.com/ToastyX)
 
+## Example
+
+![example picture](docs/example.png)
+
+## How to use
+
 ### Requirements:
 
 - Windows Vista or later
@@ -34,6 +40,13 @@ Changes in Beta 4:
 Added new default resolutions for AMD: 1128x634, 1760x990, 1600x1000, 3072x1728
 Changes in Beta 3:
 Fixed failure to start on older versions of Windows 10
-Changes in Beta 2:
+
+### 2022-02-05 Changes in Beta 2:
+
 Fixed failure to start on older versions of Windows
 Fixed 1x1 appearing in NVIDIA control panel on some displays if all resolutions are deleted
+
+### 2022-02-01 Post on monitortests.com
+
+- https://www.monitortests.com/forum/Thread-Scaled-Resolution-Editor-SRE
+
