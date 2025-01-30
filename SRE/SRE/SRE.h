@@ -1,0 +1,14 @@
+#ifndef SRE_H
+#define SRE_H
+
+// Includes ////////////////////////////////////////////////////////////////
+
+#include "SRE_Gpu.h"
+#include "SRE_GpuList.h"
+#include "SRE_Registry.h"
+#include "SRE_Resolution.h"
+#include "SRE_ResolutionList.h"
+
+////////////////////////////////////////////////////////////////////////////
+
+#endif
